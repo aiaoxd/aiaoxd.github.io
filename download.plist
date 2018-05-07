@@ -17,13 +17,13 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.114390.ceshi</string>
+          <string>com.abc.def</string>
           <key>bundle-version</key>
           <string><![CDATA[unknown]]></string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string><![CDATA[Test App]]></string>
+          <string><![CDATA[yalu102]]></string>
         </dict>
       </dict>
     </array>
